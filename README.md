@@ -1,2 +1,3 @@
 # Inma_Presentation_Drupal
-Slide for Drupal presentation in INMA
+Slides for Drupal presentation in INMA.
+The slides are done with reveal.js
